@@ -1,1 +1,3 @@
-# cpu
+# CPU
+- Microarchitecture
+- Emulator
